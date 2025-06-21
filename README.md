@@ -37,9 +37,9 @@
 - 人才激励：制定高DV2地区教育工作者补贴政策。
 
 ## 文件说明
-original_data.zip：原始多层嵌套Excel数据（需ABS授权）。
-processed_data.zip：清洗后的结构化CSV（含LGA地理编码）。
-education_services_by_lga-checkpoint.html：展示服务分布与DV1相关性。
+- original_data.zip：原始多层嵌套Excel数据（需ABS授权）。
+- processed_data.zip：清洗后的结构化CSV（含LGA地理编码）。
+- education_services_by_lga-checkpoint.html：展示服务分布与DV1相关性。
 
 -------
 
