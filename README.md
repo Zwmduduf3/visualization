@@ -81,8 +81,6 @@ This repository contains a comprehensive analysis of early childhood education s
 - **Infrastructure**: Establish mobile service hubs for Very Remote areas.  
 - **Workforce**: Incentivize educator placements in high-DV2 regions.  
 
-### Repository Structure
-
 
 
 
